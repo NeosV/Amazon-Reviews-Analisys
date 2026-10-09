@@ -56,9 +56,9 @@ Las otras cinco categorías (`MusicalInstruments`, `HomeImprovement`, `Car&Motor
 
 Los gráficos muestran solo las categorías con 30 registros o más. Las demás se ocultan en las imágenes porque sus promedios no son confiables, pero se conservan en el archivo de Power BI.
 
-![Rating promedio por categoría](images/discounted_percentage_per_category.png)
+![Rating promedio por categoría](Images/discounted_percentage_per_category.png)
 
-![Descuento promedio por categoría](images/rating_by_category.png)
+![Descuento promedio por categoría](Images/rating_by_category.png)
 
 ## Limitaciones
 
